@@ -9,6 +9,8 @@ In this project, we were using Pandas and Jupyter Notebook to analyze school bud
 The table 1 and table 2 show the original school district summary and the summary after data modified.
 -	There were 15 schools, 39,170 students, and $24,649,428.00 budget in total.
 -	Average math score, average reading score, passing math percentage, passing reading percent almost remained the same (round to the integer). The overall passing percentage were lower 0.3% after modification.
+
+![](Results/Table1.png)
 ### The school summary result
 -	The results for other 14 schools except Thomas High School remained the same.
 -	Table 3 showed each school’s summary after we replaced the math and reading grades with NaNs for Thomas High School ninth graders. The average math score, average reading score, passing math percentage, passing reading percentage and overall passing percentage were quite low for Thomas High School. This was because that we didn’t exclude the ninth graders in our students’ counting. To correct this, we used the number of 10th-12th graders from Thomas High School to redo the calculation. Table 4 showed the correct performance description for Thomas High School. 
