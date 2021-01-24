@@ -81,4 +81,6 @@ Table 13 Results of school type
 ![](Results/Table13.png)
 
 ## Summary
-There were changes to the school district analysis after we changed the math and reading scores for Thomas High Schools ninth graders. The math passing percentage, reading passing percentage, and overall passing percentage had been changed after modification. Our original percentage calculation script was no longer useful for Thomas High School since the sample student number had been changed. To correct this, we used only 10th-12th graders to calculate these three percentages for Thomas High School. The analysis for 9th graders in Thomas High School was no longer available after we replaced the data.
+In this project, we were using Pandas and Jupyter Notebook to analyze school budget data and students’ score data. Our results evaluated the schools’ performance and helped the management board to balance the future funding budget among each school.
+
+There were changes to the school district analysis after we changed the math and reading scores for Thomas High Schools ninth graders. The analysis for 9th graders in Thomas High School was no longer available after we replaced the data. The math passing percentage, reading passing percentage, and overall passing percentage had been changed after modification. Our original percentage calculation script was no longer useful for Thomas High School since the sample student number had been changed. To correct this, we used only 10th-12th graders to calculate these three percentages for Thomas High School.
