@@ -33,20 +33,20 @@ Table 4 The school summary after data modification
 -	The average scores for 10th-12th graders in Thomas High School remained the same. The average math score for 9th grader changed from 83.6 to not available as the data was replaced by NaN.
 
 Table 5 Average math scores each grade
-![](Results/Table5.png)
+<img src="Results/Table5.png">
 
 Table 6 Average math scores each grade after data modification
-![](Results/Table6.png)
+<img src="Results/Table6.png">
 
 ### Average reading scores each grade
 -	There was no change for other schools’ results (Table 7 & 8).
 -	The average scores for 10th-12th graders in Thomas High School remained the same. The average reading score for 9th grader changed from 83.7 to not available as the data was replaced by NaN.
 
 Table 7 Average reading scores each grade
-![](Results/Table7.png)
+<img src="Results/Table7.png">
 
 Table 8 Average reading scores each grade after data modification
-![](Results/Table8.png)
+<img src="Results/Table8.png">
 
 ### Top & Bottom 5 schools based on overall passing percentage
 Although the overall passing percentage for Thomas High School had been changed from 90.95% to 90.63% after we replaced the ninth graders’ math and reading scores, there was no change for Top and Bottom 5 schools in our result. Table 9 showed the top 5 schools and table 10 should the bottom 5 schools.
