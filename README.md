@@ -8,7 +8,7 @@ In this project, we were using Pandas and Jupyter Notebook to analyze school bud
 
 ## Results
 ### The district summary result
-The table 1 and table 2 show the original school district summary and the summary after data modified.
+The table 1 and table 2 showed the original school district summary and the summary after data modified.
 -	There were 15 schools, 39,170 students, and $24,649,428.00 budget in total.
 -	Average math score, average reading score, passing math percentage, passing reading percent almost remained the same (round to the integer). The overall passing percentage were lower 0.3% after modification.
 
